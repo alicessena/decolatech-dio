@@ -13,27 +13,6 @@ Durante o bootcamp, foram utilizadas diversas tecnologias, incluindo:
 - Banco de Dados (SQL e NoSQL)
 - Git e GitHub
 
-## 📂 Estrutura do Repositório
-O repositório está organizado da seguinte maneira:
-```
-📁 decolatech-dio
- ┣ 📂 img
- ┃ ┣ 🖼️ badges.png
- ┣ 📂 desafios
- ┃ ┣ 📂 desafio1
- ┃ ┃ ┣ 📜 README.md
- ┃ ┃ ┣ 📜 index.html
- ┃ ┃ ┣ 📜 script.js
- ┃ ┃ ┣ 📜 style.css
- ┃ ┣ 📂 desafio2
- ┣ 📂 projetos
- ┃ ┣ 📂 projeto-final
- ┃ ┃ ┣ 📜 README.md
- ┃ ┃ ┣ 📜 index.html
- ┃ ┃ ┣ 📜 script.js
- ┃ ┃ ┣ 📜 style.css
- ┗ 📜 README.md
-```
 
 ## 📌 Atividades e Projetos
 - **Módulo 1:** Introdução à programação, lógica e fundamentos da web.
