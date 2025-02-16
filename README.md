@@ -44,7 +44,10 @@ Durante o bootcamp, foram utilizadas diversas tecnologias, incluindo:
   <table>
   <tr>
     <td>
-        <a href="https://hermes.dio.me/certificates/Z1H1DAVO.pdf"><img src="./img/http.png" width="100px"></a>
+        <a href="https://hermes.dio.me/certificates/Z1H1DAVO.pdf"><img src="./img/http.png" width="80px"></a>
+    </td>
+     <td>
+        <a href="https://hermes.dio.me/certificates/LHKRHYPH.pdf"><img src="./img/spring.webp" width="80px"></a>
     </td>
   </tr>
   </table>
