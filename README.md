@@ -52,6 +52,12 @@ Durante o bootcamp, foram utilizadas diversas tecnologias, incluindo:
      <td>
         <a href="https://hermes.dio.me/certificates/QONQ5JCM.pdf"><img src="./img/maven.webp" width="80px"></a>
     </td>
+     <td>
+        <a href="https://hermes.dio.me/certificates/YGHAT0VA.pdf"><img src="./img/restspring.webp" width="80px"></a>
+    </td>
+     <td>
+        <a href="https://hermes.dio.me/certificates/AJF7DAY1.pdf"><img src="./img/restspringsecurity.webp" width="80px"></a>
+    </td>
   </tr>
   </table>
 
