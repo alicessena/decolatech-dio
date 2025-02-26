@@ -19,6 +19,9 @@ Durante o bootcamp, foram utilizadas diversas tecnologias, incluindo:
 - **Módulo 2:** Desenvolvimento de aplicações front-end e back-end.
 - **Projeto Final:** Aplicação prática utilizando os conceitos aprendidos.
 
+## Desafios 🖥️💡
+[Desafio 1 - Java RESTful API](https://github.com/alicessena/desafio-dio) 
+
 ## Bagdes 🏅 
 
 `Clique na Badge para visualizar o certificado`
@@ -52,12 +55,29 @@ Durante o bootcamp, foram utilizadas diversas tecnologias, incluindo:
      <td>
         <a href="https://hermes.dio.me/certificates/QONQ5JCM.pdf"><img src="./img/maven.webp" width="80px"></a>
     </td>
+    </tr>
+     <tr>
      <td>
         <a href="https://hermes.dio.me/certificates/YGHAT0VA.pdf"><img src="./img/restspring.webp" width="80px"></a>
     </td>
      <td>
         <a href="https://hermes.dio.me/certificates/AJF7DAY1.pdf"><img src="./img/restspringsecurity.webp" width="80px"></a>
     </td>
+     <td>
+        <a href="https://hermes.dio.me/certificates/CPTQUGZK.pdf"><img src="./img/b1.webp" width="80px"></a>
+    </td>
+  </tr>
+     <tr>
+     <td>
+        <a href="https://hermes.dio.me/certificates/D3LWTJZM.pdf"><img src="./img/b3.webp" width="80px"></a>
+    </td>
+     <td>
+        <a href="https://hermes.dio.me/certificates/ILPAH33Y.pdf"><img src="./img/b2.webp" width="80px"></a>
+    </td>
+     <td>
+        <a href=""><img src="./img/b4.webp" width="80px"></a>
+    </td>
+     
   </tr>
   </table>
 
