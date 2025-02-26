@@ -20,7 +20,7 @@ Durante o bootcamp, foram utilizadas diversas tecnologias, incluindo:
 - **Projeto Final:** Aplicação prática utilizando os conceitos aprendidos.
 
 ## Desafios 🖥️💡
-[Desafio 1 - Java RESTful API](https://github.com/alicessena/desafio-dio) 
+[Desafio 1 - Java RESTful API](scr="./desafios/Desafio-DIO") 
 
 ## Bagdes 🏅 
 
