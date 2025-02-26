@@ -20,7 +20,7 @@ Durante o bootcamp, foram utilizadas diversas tecnologias, incluindo:
 - **Projeto Final:** Aplicação prática utilizando os conceitos aprendidos.
 
 ## Desafios 🖥️💡
-[Desafio 1 - Java RESTful API](scr="./desafios/desafio-1/README.md") 
+[Desafio 1 - Java RESTful API](https://github.com/alicessena/decolatech-dio/tree/main/desafios/desafio-1") 
 
 ## Bagdes 🏅 
 
