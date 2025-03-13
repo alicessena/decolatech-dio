@@ -81,8 +81,20 @@ Durante o bootcamp, foram utilizadas diversas tecnologias, incluindo:
   </tr>
   </table>
 
-
   - **Integração de Sistemas com Banco de Dados**
+  <table>
+    <tr>
+     <td>
+        <a href="https://hermes.dio.me/certificates/CN1RQ5HC.pdf"><img src="./img/b6.webp" width="80px"></a>
+    </td>
+     <td>
+        <a href="https://hermes.dio.me/certificates/EXF53F4Y.pdf"><img src="./img/b5.webp" width="80px"></a>
+    </td>
+     <td>
+        <a href="https://hermes.dio.me/certificates/VRTOYBY1.pdf"><img src="./img/b7.webp" width="80px"></a>
+    </td>
+     </tr>
+  </table>
 
   - **Introdução a Angular**
 
