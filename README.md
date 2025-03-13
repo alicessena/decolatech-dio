@@ -21,6 +21,7 @@ Durante o bootcamp, foram utilizadas diversas tecnologias, incluindo:
 
 ## Desafios 🖥️💡
 [Desafio 1 - Java RESTful API](https://github.com/alicessena/decolatech-dio/tree/main/desafios/desafio-1") 
+[Desafio 2 - Gestão de Taferas ](https://github.com/alicessena/decolatech-dio/tree/main/desafios/desafio-2") 
 
 ## Bagdes 🏅 
 
@@ -93,6 +94,12 @@ Durante o bootcamp, foram utilizadas diversas tecnologias, incluindo:
      <td>
         <a href="https://hermes.dio.me/certificates/VRTOYBY1.pdf"><img src="./img/b7.webp" width="80px"></a>
     </td>
+     </tr>
+    <tr>
+     <td>
+        <a href="https://hermes.dio.me/certificates/DHCSO5M6.pdf"><img src="./img/b8.webp" width="80px"></a>
+    </td>
+     
      </tr>
   </table>
 
